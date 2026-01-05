@@ -31,3 +31,4 @@ what action should take and updates in logs.
 ->actions.js – performs browser interactions bases on contents
 ->logger.js – records observations, decisions, and actions
 ->index.js – Defines the agent workflow
+
